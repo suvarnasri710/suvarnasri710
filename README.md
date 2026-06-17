@@ -18,9 +18,6 @@ Hi there, I'm Kandula Suvarna Sri 👋<br><br>I'm a Computer Science and Systems
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suvarnasri710&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=suvarnasri710&icon=0&color=0)](https://visitcount.itsvg.in)
 
