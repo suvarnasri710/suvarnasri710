@@ -16,6 +16,6 @@ Hi there, I'm Kandula Suvarna Sri 👋<br><br>I'm a Computer Science and Systems
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=suvarnasri710&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
