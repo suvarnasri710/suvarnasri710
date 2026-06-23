@@ -14,8 +14,3 @@ Hi there, I'm Kandula Suvarna Sri 👋<br><br>I'm a Computer Science and Systems
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
